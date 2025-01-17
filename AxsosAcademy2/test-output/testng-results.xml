@@ -1,0 +1,648 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="10" passed="8" failed="2" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[Opening the URL: https://demoqa.com/webtables]]>
+    </line>
+    <line>
+      <![CDATA[Setting up the page]]>
+    </line>
+    <line>
+      <![CDATA[Check the visibility of elements in the table.]]>
+    </line>
+    <line>
+      <![CDATA[Web Table elements are displayed.]]>
+    </line>
+    <line>
+      <![CDATA[Setting up the page]]>
+    </line>
+    <line>
+      <![CDATA[Check the visibility and functionality of Add and Submit buttons.]]>
+    </line>
+    <line>
+      <![CDATA[Add and Submit buttons are checked ]]>
+    </line>
+    <line>
+      <![CDATA[Setting up the page]]>
+    </line>
+    <line>
+      <![CDATA[Check adding a new record with valid information.]]>
+    </line>
+    <line>
+      <![CDATA[New record added successfully with valid information.]]>
+    </line>
+    <line>
+      <![CDATA[Setting up the page]]>
+    </line>
+    <line>
+      <![CDATA[Check adding a new record with valid information.]]>
+    </line>
+    <line>
+      <![CDATA[New record added successfully with valid information.]]>
+    </line>
+    <line>
+      <![CDATA[Setting up the page]]>
+    </line>
+    <line>
+      <![CDATA[Testing search functionality.]]>
+    </line>
+    <line>
+      <![CDATA[Search functions well.]]>
+    </line>
+    <line>
+      <![CDATA[Setting up the page]]>
+    </line>
+    <line>
+      <![CDATA[Testing search functionality.]]>
+    </line>
+    <line>
+      <![CDATA[Search functions well.]]>
+    </line>
+    <line>
+      <![CDATA[Setting up the page]]>
+    </line>
+    <line>
+      <![CDATA[Verify adding a new record with invalid information.]]>
+    </line>
+    <line>
+      <![CDATA[New record with invalid information.]]>
+    </line>
+    <line>
+      <![CDATA[Setting up the page]]>
+    </line>
+    <line>
+      <![CDATA[Verify adding a new record with invalid information.]]>
+    </line>
+    <line>
+      <![CDATA[New record with invalid information.]]>
+    </line>
+    <line>
+      <![CDATA[Setting up the page]]>
+    </line>
+    <line>
+      <![CDATA[Verify adding a new record with invalid information.]]>
+    </line>
+    <line>
+      <![CDATA[New record with invalid information.]]>
+    </line>
+    <line>
+      <![CDATA[Setting up the page]]>
+    </line>
+    <line>
+      <![CDATA[Testing the Close button functionality in the modal.]]>
+    </line>
+    <line>
+      <![CDATA[Modal successfully closed.]]>
+    </line>
+    <line>
+      <![CDATA[Browser closed successfully.]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2025-01-17T06:37:56 EET" name="Default suite" finished-at="2025-01-17T06:42:12 EET" duration-ms="256409">
+    <groups>
+    </groups>
+    <test started-at="2025-01-17T06:37:56 EET" name="Default test" finished-at="2025-01-17T06:42:12 EET" duration-ms="256409">
+      <class name="QABootcamp_Maven.AxsosAcademy2.RecordTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:QABootcamp_Maven.AxsosAcademy2.RecordTest@7c7a06ec]" started-at="2025-01-17T06:37:56 EET" name="setup" finished-at="2025-01-17T06:38:09 EET" duration-ms="13828" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Opening the URL: https://demoqa.com/webtables]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method is-config="true" signature="setuppage()[pri:0, instance:QABootcamp_Maven.AxsosAcademy2.RecordTest@7c7a06ec]" started-at="2025-01-17T06:38:09 EET" name="setuppage" finished-at="2025-01-17T06:38:09 EET" duration-ms="2" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Setting up the page]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- setuppage -->
+        <test-method signature="VisibilityElementsInTable()[pri:1, instance:QABootcamp_Maven.AxsosAcademy2.RecordTest@7c7a06ec]" started-at="2025-01-17T06:38:09 EET" name="VisibilityElementsInTable" finished-at="2025-01-17T06:38:47 EET" duration-ms="37449" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Check the visibility of elements in the table.]]>
+            </line>
+            <line>
+              <![CDATA[Web Table elements are displayed.]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- VisibilityElementsInTable -->
+        <test-method is-config="true" signature="setuppage()[pri:0, instance:QABootcamp_Maven.AxsosAcademy2.RecordTest@7c7a06ec]" started-at="2025-01-17T06:38:47 EET" name="setuppage" finished-at="2025-01-17T06:38:47 EET" duration-ms="1" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Setting up the page]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- setuppage -->
+        <test-method signature="AddSbumitButtonsTest()[pri:2, instance:QABootcamp_Maven.AxsosAcademy2.RecordTest@7c7a06ec]" started-at="2025-01-17T06:38:47 EET" name="AddSbumitButtonsTest" finished-at="2025-01-17T06:38:53 EET" duration-ms="6296" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Check the visibility and functionality of Add and Submit buttons.]]>
+            </line>
+            <line>
+              <![CDATA[Add and Submit buttons are checked ]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- AddSbumitButtonsTest -->
+        <test-method is-config="true" signature="setuppage()[pri:0, instance:QABootcamp_Maven.AxsosAcademy2.RecordTest@7c7a06ec]" started-at="2025-01-17T06:38:53 EET" name="setuppage" finished-at="2025-01-17T06:38:53 EET" duration-ms="1" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Setting up the page]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- setuppage -->
+        <test-method signature="addNewRecordTest(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,boolean)[pri:3, instance:QABootcamp_Maven.AxsosAcademy2.RecordTest@7c7a06ec]" started-at="2025-01-17T06:38:53 EET" name="addNewRecordTest" data-provider="validInfo" finished-at="2025-01-17T06:39:05 EET" duration-ms="12063" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Lina]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Adli]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[linaadli2024@gmail.com]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[30]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[5000]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[dep]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[true]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Check adding a new record with valid information.]]>
+            </line>
+            <line>
+              <![CDATA[New record added successfully with valid information.]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- addNewRecordTest -->
+        <test-method is-config="true" signature="setuppage()[pri:0, instance:QABootcamp_Maven.AxsosAcademy2.RecordTest@7c7a06ec]" started-at="2025-01-17T06:39:05 EET" name="setuppage" finished-at="2025-01-17T06:39:05 EET" duration-ms="2" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Setting up the page]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- setuppage -->
+        <test-method signature="addNewRecordTest(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,boolean)[pri:3, instance:QABootcamp_Maven.AxsosAcademy2.RecordTest@7c7a06ec]" started-at="2025-01-17T06:39:05 EET" name="addNewRecordTest" data-provider="validInfo" finished-at="2025-01-17T06:39:17 EET" duration-ms="11991" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Sireen]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Adli]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Sireen_new@gmail.com]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[30]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[5000]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[dep]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[true]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Check adding a new record with valid information.]]>
+            </line>
+            <line>
+              <![CDATA[New record added successfully with valid information.]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- addNewRecordTest -->
+        <test-method signature="SearchTestofExistingEmail(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,boolean)[pri:4, instance:QABootcamp_Maven.AxsosAcademy2.RecordTest@7c7a06ec]" started-at="2025-01-17T06:39:17 EET" name="SearchTestofExistingEmail" data-provider="validInfo" finished-at="2025-01-17T06:39:32 EET" duration-ms="14461" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Lina]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Adli]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[linaadli2024@gmail.com]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[30]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[5000]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[dep]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[true]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Testing search functionality.]]>
+            </line>
+            <line>
+              <![CDATA[Search functions well.]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- SearchTestofExistingEmail -->
+        <test-method is-config="true" signature="setuppage()[pri:0, instance:QABootcamp_Maven.AxsosAcademy2.RecordTest@7c7a06ec]" started-at="2025-01-17T06:39:17 EET" name="setuppage" finished-at="2025-01-17T06:39:17 EET" duration-ms="0" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Setting up the page]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- setuppage -->
+        <test-method is-config="true" signature="setuppage()[pri:0, instance:QABootcamp_Maven.AxsosAcademy2.RecordTest@7c7a06ec]" started-at="2025-01-17T06:39:32 EET" name="setuppage" finished-at="2025-01-17T06:39:32 EET" duration-ms="1" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Setting up the page]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- setuppage -->
+        <test-method signature="SearchTestofExistingEmail(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,boolean)[pri:4, instance:QABootcamp_Maven.AxsosAcademy2.RecordTest@7c7a06ec]" started-at="2025-01-17T06:39:32 EET" name="SearchTestofExistingEmail" data-provider="validInfo" finished-at="2025-01-17T06:39:46 EET" duration-ms="14356" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Sireen]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Adli]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Sireen_new@gmail.com]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[30]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[5000]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[dep]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[true]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Testing search functionality.]]>
+            </line>
+            <line>
+              <![CDATA[Search functions well.]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- SearchTestofExistingEmail -->
+        <test-method signature="addNewInvalidRecordTest(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,boolean)[pri:5, instance:QABootcamp_Maven.AxsosAcademy2.RecordTest@7c7a06ec]" started-at="2025-01-17T06:39:46 EET" name="addNewInvalidRecordTest" data-provider="InvalidInfo" finished-at="2025-01-17T06:40:38 EET" duration-ms="51519" status="FAIL">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[--]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Adli]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[linaadli2024@gmail.com]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[30]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[5000]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[dep]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[false]]>
+              </value>
+            </param>
+          </params>
+          <exception class="org.openqa.selenium.TimeoutException">
+            <message>
+              <![CDATA[Expected condition failed: waiting for visibility of element located by By.xpath: //div[@class='modal-header'] (tried for 40 second(s) with 500 milliseconds interval)
+Build info: version: '4.20.0', revision: '866c76ca80'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '23'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 131.0.6778.266, chrome: {chromedriverVersion: 131.0.6778.264 (2d05e315153..., userDataDir: C:\WINDOWS\SystemTemp\scope...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:60881}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:60881/devtoo..., se:cdpVersion: 131.0.6778.266, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 62add3079ecfe1c5c45f4fedaccf4ee1]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of element located by By.xpath: //div[@class='modal-header'] (tried for 40 second(s) with 500 milliseconds interval)
+Build info: version: '4.20.0', revision: '866c76ca80'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '23'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 131.0.6778.266, chrome: {chromedriverVersion: 131.0.6778.264 (2d05e315153..., userDataDir: C:\WINDOWS\SystemTemp\scope...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:60881}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:60881/devtoo..., se:cdpVersion: 131.0.6778.266, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 62add3079ecfe1c5c45f4fedaccf4ee1
+at org.openqa.selenium.support.ui.WebDriverWait.timeoutException(WebDriverWait.java:84)
+at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:228)
+at QABootcamp_Maven.AxsosAcademy2.RecordTest.addNewInvalidRecordTest(RecordTest.java:88)
+at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:133)
+at org.testng.internal.TestInvoker.invokeMethod(TestInvoker.java:598)
+at org.testng.internal.TestInvoker.invokeTestMethod(TestInvoker.java:173)
+at org.testng.internal.MethodRunner.runInSequence(MethodRunner.java:46)
+at org.testng.internal.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:824)
+at org.testng.internal.TestInvoker.invokeTestMethods(TestInvoker.java:146)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1597)
+at org.testng.TestRunner.privateRun(TestRunner.java:794)
+at org.testng.TestRunner.run(TestRunner.java:596)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:377)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:371)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:332)
+at org.testng.SuiteRunner.run(SuiteRunner.java:276)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:53)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:96)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1212)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1134)
+at org.testng.TestNG.runSuites(TestNG.java:1063)
+at org.testng.TestNG.run(TestNG.java:1031)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:293)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:91)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.TimeoutException -->
+          <reporter-output>
+            <line>
+              <![CDATA[Verify adding a new record with invalid information.]]>
+            </line>
+            <line>
+              <![CDATA[New record with invalid information.]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- addNewInvalidRecordTest -->
+        <test-method is-config="true" signature="setuppage()[pri:0, instance:QABootcamp_Maven.AxsosAcademy2.RecordTest@7c7a06ec]" started-at="2025-01-17T06:39:46 EET" name="setuppage" finished-at="2025-01-17T06:39:46 EET" duration-ms="0" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Setting up the page]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- setuppage -->
+        <test-method is-config="true" signature="setuppage()[pri:0, instance:QABootcamp_Maven.AxsosAcademy2.RecordTest@7c7a06ec]" started-at="2025-01-17T06:40:38 EET" name="setuppage" finished-at="2025-01-17T06:40:38 EET" duration-ms="1" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Setting up the page]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- setuppage -->
+        <test-method signature="addNewInvalidRecordTest(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,boolean)[pri:5, instance:QABootcamp_Maven.AxsosAcademy2.RecordTest@7c7a06ec]" started-at="2025-01-17T06:40:38 EET" name="addNewInvalidRecordTest" data-provider="InvalidInfo" finished-at="2025-01-17T06:41:29 EET" duration-ms="51495" status="FAIL">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[124]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Adli]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Rana-adli2024@gmail.com]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[0]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[5000]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[dep]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[false]]>
+              </value>
+            </param>
+          </params>
+          <exception class="org.openqa.selenium.TimeoutException">
+            <message>
+              <![CDATA[Expected condition failed: waiting for visibility of element located by By.xpath: //div[@class='modal-header'] (tried for 40 second(s) with 500 milliseconds interval)
+Build info: version: '4.20.0', revision: '866c76ca80'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '23'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 131.0.6778.266, chrome: {chromedriverVersion: 131.0.6778.264 (2d05e315153..., userDataDir: C:\WINDOWS\SystemTemp\scope...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:60881}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:60881/devtoo..., se:cdpVersion: 131.0.6778.266, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 62add3079ecfe1c5c45f4fedaccf4ee1]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of element located by By.xpath: //div[@class='modal-header'] (tried for 40 second(s) with 500 milliseconds interval)
+Build info: version: '4.20.0', revision: '866c76ca80'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '23'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 131.0.6778.266, chrome: {chromedriverVersion: 131.0.6778.264 (2d05e315153..., userDataDir: C:\WINDOWS\SystemTemp\scope...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:60881}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:60881/devtoo..., se:cdpVersion: 131.0.6778.266, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 62add3079ecfe1c5c45f4fedaccf4ee1
+at org.openqa.selenium.support.ui.WebDriverWait.timeoutException(WebDriverWait.java:84)
+at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:228)
+at QABootcamp_Maven.AxsosAcademy2.RecordTest.addNewInvalidRecordTest(RecordTest.java:88)
+at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:133)
+at org.testng.internal.TestInvoker.invokeMethod(TestInvoker.java:598)
+at org.testng.internal.TestInvoker.invokeTestMethod(TestInvoker.java:173)
+at org.testng.internal.MethodRunner.runInSequence(MethodRunner.java:46)
+at org.testng.internal.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:824)
+at org.testng.internal.TestInvoker.invokeTestMethods(TestInvoker.java:146)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1597)
+at org.testng.TestRunner.privateRun(TestRunner.java:794)
+at org.testng.TestRunner.run(TestRunner.java:596)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:377)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:371)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:332)
+at org.testng.SuiteRunner.run(SuiteRunner.java:276)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:53)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:96)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1212)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1134)
+at org.testng.TestNG.runSuites(TestNG.java:1063)
+at org.testng.TestNG.run(TestNG.java:1031)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:293)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:91)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.TimeoutException -->
+          <reporter-output>
+            <line>
+              <![CDATA[Verify adding a new record with invalid information.]]>
+            </line>
+            <line>
+              <![CDATA[New record with invalid information.]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- addNewInvalidRecordTest -->
+        <test-method is-config="true" signature="setuppage()[pri:0, instance:QABootcamp_Maven.AxsosAcademy2.RecordTest@7c7a06ec]" started-at="2025-01-17T06:41:29 EET" name="setuppage" finished-at="2025-01-17T06:41:29 EET" duration-ms="1" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Setting up the page]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- setuppage -->
+        <test-method signature="addNewInvalidRecordTest(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,boolean)[pri:5, instance:QABootcamp_Maven.AxsosAcademy2.RecordTest@7c7a06ec]" started-at="2025-01-17T06:41:29 EET" name="addNewInvalidRecordTest" data-provider="InvalidInfo" finished-at="2025-01-17T06:41:41 EET" duration-ms="12126" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Rana]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Adli]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[mail.com]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[0.2]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[5000]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[dep]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[false]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Verify adding a new record with invalid information.]]>
+            </line>
+            <line>
+              <![CDATA[New record with invalid information.]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- addNewInvalidRecordTest -->
+        <test-method is-config="true" signature="setuppage()[pri:0, instance:QABootcamp_Maven.AxsosAcademy2.RecordTest@7c7a06ec]" started-at="2025-01-17T06:41:41 EET" name="setuppage" finished-at="2025-01-17T06:41:41 EET" duration-ms="2" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Setting up the page]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- setuppage -->
+        <test-method signature="testCloseButtonFunctionality1()[pri:6, instance:QABootcamp_Maven.AxsosAcademy2.RecordTest@7c7a06ec]" started-at="2025-01-17T06:41:41 EET" name="testCloseButtonFunctionality1" finished-at="2025-01-17T06:42:12 EET" duration-ms="30251" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Testing the Close button functionality in the modal.]]>
+            </line>
+            <line>
+              <![CDATA[Modal successfully closed.]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- testCloseButtonFunctionality1 -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:QABootcamp_Maven.AxsosAcademy2.RecordTest@7c7a06ec]" started-at="2025-01-17T06:42:12 EET" name="tearDown" finished-at="2025-01-17T06:42:12 EET" duration-ms="450" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Browser closed successfully.]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- QABootcamp_Maven.AxsosAcademy2.RecordTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
